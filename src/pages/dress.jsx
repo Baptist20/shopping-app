@@ -1,12 +1,39 @@
 const products = [
   {
     id: 1,
-    name: 'Flay Gown',
+    name: 'Blue Flay Gown',
     href: '#',
     imageSrc: '/images/dress.jpeg',
     imageAlt: "Front of women's Basic dress.",
     price: '$60',
     color: 'Blue',
+  },
+  {
+    id: 2,
+    name: 'Yellow Flay Gown',
+    href: '/',
+    imageSrc: '/images/dress2.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$50',
+    color: 'Blue',
+  },
+  {
+    id: 3,
+    name: 'Red Flay Gown',
+    href: '/',
+    imageSrc: '/images/dress3.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$70',
+    color: 'Red with Black Dots',
+  },
+  {
+    id: 4,
+    name: 'Black Flay Gown',
+    href: '/',
+    imageSrc: '/images/dress4.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$40',
+    color: 'Black',
   },
   // More products...
 ]

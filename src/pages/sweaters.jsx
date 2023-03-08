@@ -8,6 +8,33 @@ const products = [
     price: '$35',
     color: 'Light Brown',
   },
+  {
+    id: 2,
+    name: 'Mixed Color',
+    href: '/',
+    imageSrc: '/images/sweater2.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$400',
+    color: 'Mixed',
+  },
+  {
+    id: 3,
+    name: 'Pink Cotton Sweater',
+    href: '/',
+    imageSrc: '/images/sweater3.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$300',
+    color: 'Pink',
+  },
+  {
+    id: 4,
+    name: 'Light Mixed Color',
+    href: '/',
+    imageSrc: '/images/sweater4.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$950',
+    color: 'Blue, Pink and Orange',
+  },
   // More products...
 ]
 

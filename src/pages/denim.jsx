@@ -1,12 +1,39 @@
 const products = [
   {
     id: 1,
-    name: 'Blue Jean Denim',
+    name: 'Blue Gown Denim',
     href: '#',
     imageSrc: '/images/femaledenim.jpeg',
     imageAlt: "Front of women's Basic dress.",
     price: '$300',
     color: 'Blue',
+  },
+  {
+    id: 2,
+    name: 'Light Blue Denim',
+    href: '/',
+    imageSrc: '/images/denim2.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$350',
+    color: 'Dark Blue',
+  },
+  {
+    id: 3,
+    name: 'Blue Jean Denim',
+    href: '/',
+    imageSrc: '/images/denim3.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$400',
+    color: 'Light blue',
+  },
+  {
+    id: 4,
+    name: 'Black Tight',
+    href: '/',
+    imageSrc: '/images/denim4.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$600',
+    color: 'Black',
   },
   // More products...
 ]

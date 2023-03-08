@@ -8,6 +8,33 @@ const products = [
     price: '$600',
     color: 'Light-brown',
   },
+  {
+    id: 2,
+    name: 'Black Rain Jacket',
+    href: '/',
+    imageSrc: '/images/jacket2.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$200',
+    color: 'Black',
+  },
+  {
+    id: 3,
+    name: 'Black Winter Jacket',
+    href: '/',
+    imageSrc: '/images/jacket3.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$300',
+    color: 'Black',
+  },
+  {
+    id: 4,
+    name: 'Two Set Jacket',
+    href: '/',
+    imageSrc: '/images/jacket4.jpeg',
+    imageAlt: "Front of women's Basic dress.",
+    price: '$400',
+    color: 'Pink and Light Brown',
+  },
   // More products...
 ]
 
