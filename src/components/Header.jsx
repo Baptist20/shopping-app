@@ -304,7 +304,7 @@ const Header = () => {
             </div>
 
             {/* Flyout menus */}
-            <Popover.Group className="hidden lg:ml-8 lg:block lg:self-stretch"  style={{zIndex: 1000}}>
+            <Popover.Group className="hidden lg:ml-8 lg:block lg:self-stretch"  style={{zIndex: 500}}>
               <div className="flex h-full space-x-8" >
                 {navigation.categories.map((category) => (
                   <Popover key={category.name} className="flex">

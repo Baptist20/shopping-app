@@ -45,7 +45,7 @@ export default function Payment({setShowPayment, openModal}) {
 
   return (
     <Transition.Root show={open} as={Fragment}>
-      <Dialog as="div" className="relative z-50" onClose={setOpen}>
+      <Dialog as="div" className="relative z-50" onClose={setOpen}  style={{zIndex: 1000}}>
         <Transition.Child
           as={Fragment}
           enter="ease-out duration-300"
