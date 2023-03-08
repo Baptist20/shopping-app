@@ -5,7 +5,7 @@ const products = [
   {
     id: 1,
     name: 'Basic Tee',
-    href: '/',
+    href: '#',
     imageSrc: 'images/femaletshirt.jpeg',
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$30',
@@ -32,7 +32,7 @@ const products = [
   {
     id: 4,
     name: 'Pink Short sleeve',
-    href: '#',
+    href: '/',
     imageSrc: 'images/shirt4.jpeg',
     imageAlt: "Front of women's Basic Tee in black.",
     price: '$40',
